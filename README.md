@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Reynacho Radan</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from Indonesia</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1187278/screenshots/16762086/media/10ba6161c70f3edd67f34e229b62b852.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reynachoradan&label=Profile%20views&color=0e75b6&style=flat" alt="reynachoradan" /> </p>
