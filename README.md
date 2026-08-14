@@ -16,13 +16,13 @@
 
 ## ⚡ 10-Second Intro
 
-| | |
-|---|---|
-| 🧑‍💻 **Who am I?** | Full-Stack Developer based in Indonesia, focused on **TypeScript, Next.js & backend systems** |
-| 🛠️ **What do I build?** | Modern web apps & **AI-powered applications** — from idea to production |
-| ⚙️ **Core technologies?** | `TypeScript` · `Next.js` · `Node.js` · `PostgreSQL` · `AI Integration` |
-| 🏆 **Best project?** | See [Featured Projects](#-featured-projects) below |
-| 📬 **How to reach me?** | [reynnradan@gmail.com](mailto:reynnradan@gmail.com) · [LinkedIn](https://linkedin.com/in/reynacho-radan) |
+|                              |                                                                                                          |
+| ---------------------------- | -------------------------------------------------------------------------------------------------------- |
+| 🧑‍💻 **Siapa saya?**           | Full-Stack Developer dari Indonesia, fokus di **TypeScript, Next.js & backend systems**                  |
+| 🛠️ **Apa yang saya bangun?** | Web app modern & **AI-powered applications** — dari ide sampai production                                |
+| ⚙️ **Teknologi utama?**      | `TypeScript` · `Next.js` · `Node.js` · `PostgreSQL` · `AI Integration`                                   |
+| 🏆 **Project terbaik?**      | Lihat [Featured Projects](#-featured-projects) di bawah                                                  |
+| 📬 **Cara menghubungi?**     | [reynnradan@gmail.com](mailto:reynnradan@gmail.com) · [LinkedIn](https://linkedin.com/in/reynacho-radan) |
 
 <br>
 
@@ -32,12 +32,7 @@
 const reynacho = {
   role: "Full-Stack Developer",
   location: "Indonesia · Remote",
-  focus: [
-    "TypeScript",
-    "Next.js",
-    "Backend Systems",
-    "AI Integration",
-  ],
+  focus: ["TypeScript", "Next.js", "Backend Systems", "AI Integration"],
   building: "Production-ready web applications",
   openTo: ["Remote roles", "Freelance projects"],
 };
@@ -47,8 +42,16 @@ const reynacho = {
 
 ## 🏆 Featured Projects
 
-### Reynacho Radan Portfolio
-Personal portfolio showcasing selected software engineering and product design work.
+<!--
+  Ganti bagian di bawah ini dengan project asli kamu.
+  Format: nama, deskripsi singkat 1 baris, stack, link demo & repo.
+  2–3 project terbaik cukup — jangan overload.
+-->
+
+### [Reynacho Radan Portofolio]
+
+Personal portfolio showcasing selected software
+engineering and product design work.
 
 **Stack:** Next.js · TypeScript · ...
 
@@ -56,8 +59,10 @@ Personal portfolio showcasing selected software engineering and product design w
 
 ---
 
-### Noirea AI
-AI-powered fashion recommendation platform designed to help users discover and combine fashion products.
+### [Noirea AI]
+
+AI-powered fashion recommendation platform designed
+to help users discover and combine fashion products
 
 **Stack:** Next.js · TypeScript · AI · ...
 
@@ -67,12 +72,12 @@ AI-powered fashion recommendation platform designed to help users discover and c
 
 ## 🎯 Current Focus
 
-_Last updated: August 2026_
+_Terakhir diperbarui: Agustus 2026_
 
-- Building production-ready full-stack applications
-- Deepening backend architecture & database design
-- Integrating AI into real-world products
-- Learning testing, Docker, and CI/CD
+- Membangun production-ready full-stack applications
+- Memperdalam backend architecture & database design
+- Mengintegrasikan AI ke dalam real-world products
+- Belajar testing, Docker, dan CI/CD
 
 <br>
 
@@ -83,7 +88,7 @@ _Last updated: August 2026_
 </p>
 
 <details>
-<summary>🗂️ Also worked with (click to expand)</summary>
+<summary>🗂️ Lainnya yang pernah saya pakai (klik untuk lihat)</summary>
 <br>
 <p align="left">
   <img src="https://skillicons.dev/icons?i=kotlin,java,flutter,androidstudio,py,figma" />
@@ -93,13 +98,10 @@ _Last updated: August 2026_
 
 <br>
 
-## 📊 GitHub Stats
+📊 GitHub Stats
 
-<div align="center">
-
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=reynachoradan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reynachoradan&layout=compact&theme=tokyonight&hide_border=true"/>
-
+<div align="center"> <img height="165em" src="https://github-readme-stats-swart-five-47.vercel.app/api?username=reynachoradan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/> 
+<img height="165em" src="https://github-readme-stats-swart-five-47.vercel.app/api/top-langs/?username=reynachoradan&layout=compact&theme=tokyonight&hide_border=true"/> 
 </div>
 
 <br>
