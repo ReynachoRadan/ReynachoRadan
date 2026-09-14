@@ -58,7 +58,7 @@ AI-powered fashion recommendation platform designed to help users discover and c
 
 **Stack:** Next.js · TypeScript · AI · ...
 
-[Repository](https://github.com/ReynachoRadan/AI-Testing)
+[Live Demo](https://noirea-ai-papm-kzzj8i25d-reynachoradans-projects.vercel.app/login) , [Repository](https://github.com/ReynachoRadan/AI-Testing)
 
 <br>
 
